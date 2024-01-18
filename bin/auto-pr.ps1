@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "<reinhardclemenshadler>/<mybucketforhadler>:main"
+    [String]$upstream = "reinhardclemenshadler/mybucketforhadler:main"
 )
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
 $autopr = "$env:SCOOP_HOME/bin/auto-pr.ps1"
