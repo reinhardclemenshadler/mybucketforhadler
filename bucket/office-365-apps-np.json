@@ -1,5 +1,5 @@
 {
-    "version": "23.8.0",
+    "version": "2.48.1",
     "description": "Family of client software, server software and services developed by Microsoft.",
     "homepage": "https://www.office.com/",
     "license": {
@@ -8,7 +8,7 @@
     },
     "depends": "7zip19.00-helper",
     "url": "https://download.microsoft.com/download/#/dl.7z_",
-    "hash": "51ad9788f9b86d3bf40352d2e723249ca97b5765ac0d254ea85031fc424a79a8",
+    "hash": "a6c6a9092c64f703af782c5c016bc14217389334ac2a6c1183b5c8eb7f88824e",
     "pre_install": [
         "$scriptdir = \"$bucketsdir\\nonportable\\scripts\"",
         "if ($architecture -eq '64bit') {",
