@@ -1,5 +1,5 @@
 {
-    "version": "4.70",
+    "version": "4.72",
     "description": "A fast, compact and innovative graphic viewer (with PlugIns)",
     "homepage": "https://www.irfanview.com",
     "license": {
@@ -14,12 +14,12 @@
     "architecture": {
         "32bit": {
             "url": [
-                "https://www.irfanview.info/files/iview470.zip",
-                "https://www.irfanview.info/files/iview470_plugins.zip"
+                "https://www.irfanview.info/files/iview472.zip",
+                "https://www.irfanview.info/files/iview472_plugins.zip"
             ],
             "hash": [
-                "6eaa6fe6ef7a7e834acf1ee9aed4a6573ef0bc05d0a0cd1677e3e8e03af04c7f",
-                "7945e0a26667ab74c5f8e5aa0fc1aca9280370c17c37cf20058d8094616e5284"
+                "c15326bfb17da5f18f6f22252a3d201201addf7617aeb2f52d07b6f5404ff074",
+                "67917f5fb6a03e5e581d766c6a265bc201a4fea0cafbb549688233b95f8364b6"
             ],
             "bin": [
                 [
